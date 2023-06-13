@@ -1,6 +1,6 @@
 # kojitechs-terraform-101
 
-# awesome boy 
+# awesome boy OKA
 
 ## Getting started    
 
